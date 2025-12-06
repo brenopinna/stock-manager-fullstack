@@ -23,7 +23,7 @@ Backend 👨‍💻
 Hospedagem 🌐
 
 - Frontend: [Vercel](https://vercel.com/)
-- Backend: [Railway](https://railway.app/)
+- Backend: [Vercel](https://vercel.com/)
 
 ## 📗 Guia do projeto
 
